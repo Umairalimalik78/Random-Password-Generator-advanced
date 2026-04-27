@@ -12,7 +12,7 @@ A sleek and fully functional **Advanced Random Password Generator** built with H
 
 ## 📸 Preview
 
-> *(Add a screenshot of your project here)*
+> <img width="1366" height="607" alt="random-password-geenrator-advanced netlify app_" src="https://github.com/user-attachments/assets/b801a0f1-4d33-41c0-afa0-75419776537b" />
 
 ---
 
